@@ -1,0 +1,1 @@
+subjectAltName=DNS:gcr.io,DNS:ghcr.io,DNS:*.k8s.io,DNS:*.docker.io,DNS:quay.io,DNS:nvcr.io,DNS:custom.local,DNS:my.io
